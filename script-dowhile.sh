@@ -1,6 +1,7 @@
 #!/bin/bash
 #this script is created by Alexandre Franck on 2020
 #script to run a number of seconds
+#stop process
 
 count=0
 num=10
