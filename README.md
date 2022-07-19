@@ -1,2 +1,2 @@
 #  first-do-while-Scripts
-bash scripts
+#dowhile scripts
